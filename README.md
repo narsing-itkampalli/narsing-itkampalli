@@ -1,5 +1,5 @@
 <h1 align="center">Hey 👋, I'm Narsing Itkampalli</h1>
-<h3 align="center">Full-Stack Developer | Building Startups & Teams | Creator of EloxJs</h3>
+<h3 align="center">Full-Stack Developer | Building Startups & Teams | Creator of Elox.js</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/narsing-itkampalli/" target="_blank">
@@ -21,7 +21,7 @@ I'm a self-taught developer with over 5 years of hands-on experience crafting we
 
 - 🛠 Currently working on **two startup products** focused on solving real-world problems
 - 👥 Actively building a **team of like-minded developers and creatives**
-- 🧱 Creator of [EloxJs](https://github.com/ByteCraftJS), a JavaScript framework for building scalable SPAs and MPAs
+- 🧱 Creator of [Elox.js](https://github.com/eloxjs), a JavaScript framework for building scalable SPAs and MPAs
 - ⚙️ Passionate about clean architecture, system design, and backend engineering
 - 🚀 Open-source enthusiast focused on developer tools and frameworks
 - 📦 Built [laravel-validator-js](https://github.com/narsing-itkampalli/laravel-validator-js) — a Laravel-style frontend validation library
